@@ -1,0 +1,57 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 125px;
+  background: #21325e;
+  flex-wrap: wrap; /* Allow content to wrap to the next line on smaller screens */
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap; /* Allow links to wrap on smaller screens */
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 20px; /* Adjust margin */
+  font-size: 25px;
+}
+
+.toggleButton {
+  display: flex;
+  align-items: center;
+}
+
+.toggleButton svg {
+  font-size: 50px;
+}
+
+.toggleButton button {
+  margin-right: 20px;
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+#open {
+  height: auto; /* Reset the height for larger screens */
+  display: flex;
+  flex-direction: column; /* Stack the links vertically on smaller screens */
+  align-items: center; /* Center-align the links vertically on smaller screens */
+}
+
+#open a {
+  width: 100%;
+  text-align: center;
+}
+
+.name {
+  color: white;
+  margin-left: 20px; /* Adjust margin */
+  font-size: 25px; /* Adjust font size */
+}
