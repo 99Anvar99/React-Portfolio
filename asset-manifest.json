@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.119309f4.css",
+    "main.js": "/React-Portfolio/static/js/main.16fdb2c7.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Media_Universe.png": "/React-Portfolio/static/media/Media_Universe.271323eef7021dcaabe2.png",
+    "static/media/Password_Generator.png": "/React-Portfolio/static/media/Password_Generator.7daacd8253f497a68439.png",
+    "static/media/Time_Quiz.png": "/React-Portfolio/static/media/Time_Quiz.24d4ccec201ca4670ebd.png",
+    "static/media/ReadMe_Generator.png": "/React-Portfolio/static/media/ReadMe_Generator.4609daa8f6b9647d3791.png",
+    "static/media/Note_Taker.png": "/React-Portfolio/static/media/Note_Taker.202d8f681639f762e07d.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.119309f4.css.map": "/React-Portfolio/static/css/main.119309f4.css.map",
+    "main.16fdb2c7.js.map": "/React-Portfolio/static/js/main.16fdb2c7.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.119309f4.css",
+    "static/js/main.16fdb2c7.js"
+  ]
+}
