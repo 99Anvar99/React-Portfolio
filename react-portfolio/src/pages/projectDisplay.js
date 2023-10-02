@@ -31,9 +31,29 @@ function ProjectDisplay() {
             );
             break;
         case "3":
-        default:
             githubLink = (
                 <a href="https://github.com/99Anvar99/Weather-Application">
+                    <GitHubIcon />
+                </a>
+            );
+            break;
+        case "4":
+            githubLink = (
+                <a href="https://github.com/99Anvar99/Password-Generator">
+                    <GitHubIcon />
+                </a>
+            );
+            break;
+        case "5":
+            githubLink = (
+                <a href="https://github.com/99Anvar99/Readme-Generator">
+                    <GitHubIcon />
+                </a>
+            );
+            break;
+        default:
+            githubLink = (
+                <a href="https://github.com/99Anvar99">
                     <GitHubIcon />
                 </a>
             );
