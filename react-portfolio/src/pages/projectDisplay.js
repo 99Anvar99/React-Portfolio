@@ -48,7 +48,7 @@ function ProjectDisplay() {
                 height={"auto"}
                 alt={project.name}
             />
-            <p>Project Resperetory: {githubLink}</p>
+            <p>Project Respiratory: {githubLink}</p>
         </div>
     );
 }
