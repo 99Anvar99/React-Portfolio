@@ -21,6 +21,10 @@
   font-size: 25px;
 }
 
+.navbar a.active {
+  text-decoration: underline; /* Underline the active link */
+}
+
 .navbar a:hover {
   text-decoration: underline;
 }
