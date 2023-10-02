@@ -8,9 +8,8 @@ function footer() {
   return (
     <div className="footer">
         <div className="socialMedia">
-            <Github />
+          <a href="https://github.com/99Anvar99"><Github /></a>
         </div>
-        <p>&copy; 2023 React Portfolio</p>
     </div>
   )
 }
