@@ -21,6 +21,10 @@
   font-size: 25px;
 }
 
+.navbar a:hover {
+  text-decoration: underline;
+}
+
 .toggleButton {
   display: flex;
   align-items: center;
@@ -53,5 +57,5 @@
 .name {
   color: white;
   margin-left: 20px; /* Adjust margin */
-  font-size: 25px; /* Adjust font size */
+  font-size: 45px; /* Adjust font size */
 }
