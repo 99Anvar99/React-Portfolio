@@ -1,5 +1,5 @@
 import './styles/App.css';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 // Importing pages
 import AboutMe from './pages/aboutMe';
 import Resume from './pages/resume';
@@ -16,7 +16,8 @@ function App() {
      <Router>
       <Navbar />
       <Routes>
-        <Route path='/' element={<AboutMe />} />
+        <Route path="/" element={<Navigate to="/React-Portfolio" />} />
+        <Route path="/React-Portfolio" element={<AboutMe />} />
         <Route path='/portfolio' element={<Portfolio />} />
         <Route path='/project/:id' element={<ProjectDisplay />} />
         <Route path='/contacts' element={<Contacts />} />
