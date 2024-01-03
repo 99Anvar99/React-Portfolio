@@ -10,6 +10,3 @@ This React portfolio project aims to create a single-page web app showcasing a d
 ## License
 
 - This project is build under [MIT](https://choosealicense.com/licenses/mit/) license 
-
-## ScreenShot
-![image](https://github.com/99Anvar99/React-Portfolio/assets/60616540/f44e1267-dedf-41ff-8957-c28c1516794f)
